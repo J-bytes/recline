@@ -382,7 +382,7 @@ my.FlotControls = Backbone.View.extend({
           </div> \
         </div> \
         <div class="form-group"> \
-          <label for="field-form-group">{{t.Group_Column_(Axis_1)}}</label> \
+          <label for="field-form-group">{{t.flot_Group_Column}}</label> \
           <div class="input editor-group"> \
             <select id="field-form-group" class="form-control"> \
               <option value="">Please choose ...</option> \
